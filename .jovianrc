@@ -1,0 +1,19 @@
+{
+  "notebooks": {
+    "000_pytorch_basic.ipynb": {
+      "slug": "f8b76163a53f469b837b28c5adc0bc7c"
+    },
+    "002_Linear_Regression.ipynb": {
+      "slug": "382dad10c3e047109777ea727bd8b14b"
+    },
+    "004_Mnist_Dense_gpu.ipynb": {
+      "slug": "0f079fd403854ed8b3ba899e317ed66d"
+    },
+    "005_Mnist_ModuleList_gpu.ipynb": {
+      "slug": "e07dc59736424116868cc2d0296cb730"
+    },
+    "030_CIFAR_10CNN.ipynb": {
+      "slug": "25de83c33a9a4dcabaaa6669ecfedd82"
+    }
+  }
+}
